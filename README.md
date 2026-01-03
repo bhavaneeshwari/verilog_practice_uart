@@ -17,6 +17,8 @@ In uart, for data transmission ,need to include START BIT ,STOP BIT AND PARITY B
 
 <img width="329" height="538" alt="image" src="https://github.com/user-attachments/assets/c609020c-a514-45b5-965b-32666598cd94" />
 
+<img width="1382" height="488" alt="image" src="https://github.com/user-attachments/assets/f60471be-d078-4214-ae1a-78196c8418d1" />
+<img width="1479" height="525" alt="image" src="https://github.com/user-attachments/assets/ee5630d0-a350-4159-9af4-de1132bf2424" />
 
 # transmitter module 
 
